@@ -1,13 +1,15 @@
 <template>
   <div class="root-element">
     <div class="hello">
-      <h1 class="frontbanner">{{ msg }}
-        <!-- <img class="logo" alt="Vue logo" src="../assets/logo.png"> -->
+      <h1 class="frontbanner">
+                <img class="logo" alt="Vue logo" src="../assets/logo.png">
+                {{ msg }}
+
       </h1>
     </div>
       <div class="department-rows">
         <div class="departmens-coloumns">
-          <a href="" class="departmentbuttons"><p>Tørstof</p></a>
+          <a href="http://localhost:8080/#/about" class="departmentbuttons"><p>Tørstof</p></a>
           <a href="" class="departmentbuttons"><p>Indvejning</p></a>
           <a href="" class="departmentbuttons"><p>Grovkøkken</p></a>
         </div>
@@ -54,12 +56,16 @@ a {
 .hello {
   height: 700px;
   width: 100vw;
-  background-color: beige;
+  background-image: url('../assets/dyr.png');
+  color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .logo {
   width: 100px;
-  height: 100px;
+  height: 180px;
 }
 
 .frontbanner {
@@ -69,12 +75,14 @@ a {
   align-items: center;
   height: 700px;
   width: 100vw;
+  gap: 10px;
+  font-size: 100px;
+
 }
 
 .departments {
   height: 80vh;
   width: 100vw;
-  background-color: #FFDEC7;
   display: flex;
   flex-direction: column;
   justify-content: center;
