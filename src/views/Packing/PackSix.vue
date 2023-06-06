@@ -4,7 +4,7 @@
         <h1>Justering af afviste bægre (RBJ Schubert)</h1>
         <div class="player-container">
             <video width="1080" height="720" controls>
-                <source src="../../assets/packaging/afvist-83.mp4" type="video/mp4">
+                <source src="../../assets/packaging" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
         </div>
