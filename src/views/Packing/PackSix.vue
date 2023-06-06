@@ -1,6 +1,6 @@
 
 <template>
-    <div class="packfour">
+    <div class="packsix">
         <h1>Justering af afviste bægre (RBJ Schubert)</h1>
         <div class="player-container">
             <video width="1080" height="720" controls>

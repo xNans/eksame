@@ -9,9 +9,9 @@
             <a href="/#/packthree" class="assignment pack3"><p>Justering af stopfotocelle</p></a>
           </div>
           <div class="assignment-row">
-            <a href="/#/packthree" class="assignment pack4"><p>Sortering af afviste bægre fra Line 83 RBJ</p></a>
-            <a href="/#/packfour" class="assignment pack5"><p>Påsætning af kantlister</p></a>
-            <a href="/#/packtfive" class="assignment pack6"><p>Sortering af afviste bægre (RBJ Schubert)</p></a>
+            <a href="/#/packfour" class="assignment pack4"><p>Sortering af afviste bægre fra Line 83 RBJ</p></a>
+            <a href="/#/packfive" class="assignment pack5"><p>Påsætning af kantlister</p></a>
+            <a href="/#/packsix" class="assignment pack6"><p>Sortering af afviste bægre (RBJ Schubert)</p></a>
           </div>
       </div>
       
