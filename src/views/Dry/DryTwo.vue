@@ -4,7 +4,7 @@
         <h1>Håndtering af tørstoffer i tørstoftanke</h1>
         <div class="player-container">
             <video width="1080" height="720" controls>
-                <source src="../../assets/tørstof" type="video/mp4">
+                <source src="../../assets/tørstof/håndtering.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video> 
         </div>
