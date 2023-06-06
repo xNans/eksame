@@ -4,14 +4,14 @@
       <h1>Pakkeri</h1>
       <div class="assignments">
           <div class="assignment-row">
-            <a href="/#/packone" class="assignment pack1"><p>Hvordan genindføres bægre tilbage på linjen</p></a>
-            <a href="/#/packtwo" class="assignment pack2"><p>Justering af etiketmaskinehøjde - Collamat etiketmaskiner</p></a>
-            <a href="/#/packthree" class="assignment pack3"><p>Justering af stopfotocelle</p></a>
+            <a href="nmcdesign.dk/packone" class="assignment pack1"><p>Hvordan genindføres bægre tilbage på linjen</p></a>
+            <a href="nmcdesign.dk/packtwo" class="assignment pack2"><p>Justering af etiketmaskinehøjde - Collamat etiketmaskiner</p></a>
+            <a href="nmcdesign.dk/packthree" class="assignment pack3"><p>Justering af stopfotocelle</p></a>
           </div>
           <div class="assignment-row">
-            <a href="/#/packfour" class="assignment pack4"><p>Sortering af afviste bægre fra Line 83 RBJ</p></a>
-            <a href="/#/packfive" class="assignment pack5"><p>Påsætning af kantlister</p></a>
-            <a href="/#/packsix" class="assignment pack6"><p>Sortering af afviste bægre (RBJ Schubert)</p></a>
+            <a href="nmcdesign.dk/packfour" class="assignment pack4"><p>Sortering af afviste bægre fra Line 83 RBJ</p></a>
+            <a href="nmcdesign.dk/packfive" class="assignment pack5"><p>Påsætning af kantlister</p></a>
+            <a href="nmcdesign.dk/packsix" class="assignment pack6"><p>Sortering af afviste bægre (RBJ Schubert)</p></a>
           </div>
       </div>
       

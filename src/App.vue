@@ -1,14 +1,14 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Forside</router-link> |
-      <router-link to="/about">Tørstof</router-link> |
-      <router-link to="/weighing">Indvejning</router-link> |
-      <router-link to="/meat">Grovkøkken</router-link> |
-      <router-link to="/kitchen">Flex-køkken</router-link> |
-      <router-link to="/filling">Flex-fyld</router-link> |
-      <router-link to="/packaging">Pakkeri</router-link> |
-      <router-link to="/storage">Lager</router-link> |
+      <router-link to="nmcdesign.dk/">Forside</router-link> |
+      <router-link to="nmcdesign.dk/about">Tørstof</router-link> |
+      <router-link to="nmcdesign.dk/weighing">Indvejning</router-link> |
+      <router-link to="nmcdesign.dk/meat">Grovkøkken</router-link> |
+      <router-link to="nmcdesign.dk/kitchen">Flex-køkken</router-link> |
+      <router-link to="nmcdesign.dk/filling">Flex-fyld</router-link> |
+      <router-link to="nmcdesign.dk/packaging">Pakkeri</router-link> |
+      <router-link to="nmcdesign.dk/storage">Lager</router-link> |
     </nav>
     <router-view/>
   </div>

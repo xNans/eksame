@@ -9,18 +9,18 @@
     </div>
       <div class="department-rows">
         <div class="departmens-coloumns">
-          <a href="/#/about" class="departmentbuttons"><p>Tørstof</p></a>
-          <a href="/#/weighing" class="departmentbuttons"><p>Indvejning</p></a>
-          <a href="/#/meat" class="departmentbuttons"><p>Grovkøkken</p></a>
+          <a href="nmcdesign.dk/about" class="departmentbuttons"><p>Tørstof</p></a>
+          <a href="nmcdesign.dk/weighing" class="departmentbuttons"><p>Indvejning</p></a>
+          <a href="nmcdesign.dk/meat" class="departmentbuttons"><p>Grovkøkken</p></a>
         </div>
         <div class="departmens-coloumns">
-          <a href="/#/kitchen" class="departmentbuttons"><p>Flex-køkken</p></a>
-          <a href="/#/filling" class="departmentbuttons"><p>Flex-fyld</p></a>
-          <a href="/#/packaging" class="departmentbuttons"><p>Pakkeri</p></a>
+          <a href="nmcdesign.dk/kitchen" class="departmentbuttons"><p>Flex-køkken</p></a>
+          <a href="nmcdesign.dk/filling" class="departmentbuttons"><p>Flex-fyld</p></a>
+          <a href="nmcdesign.dk/packaging" class="departmentbuttons"><p>Pakkeri</p></a>
         </div>
 
         <div class="departmens-coloumns">
-          <a href="/#/storage" class="departmentbuttons"><p>Lager</p></a>
+          <a href="nmcdesign.dk/storage" class="departmentbuttons"><p>Lager</p></a>
         </div>
       </div>
     </div>

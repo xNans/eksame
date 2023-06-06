@@ -4,12 +4,12 @@
     <h1>Tørstof</h1>
     <div class="assignments">
         <div class="assignment-row">
-          <a href="/#/dryone" class="assignment dry1"><p>Modtagelse af tørstoffer</p></a>
-          <a href="/#/drytwo" class="assignment dry2"><p>Håndtering af tørstoffer i tørstoftanke</p></a>
-          <a href="/#/drythree" class="assignment dry2"><p>prøvetagning fra big bag og egenproduktion</p></a>
+          <a href="nmcdesign.dk/dryone" class="assignment dry1"><p>Modtagelse af tørstoffer</p></a>
+          <a href="nmcdesign.dk/drytwo" class="assignment dry2"><p>Håndtering af tørstoffer i tørstoftanke</p></a>
+          <a href="nmcdesign.dk/drythree" class="assignment dry2"><p>prøvetagning fra big bag og egenproduktion</p></a>
         </div>
         <div class="assignment-row">
-          <a href="/#/dryfour" class="assignment dry4"><p>Modtagelse af tørstoffer</p></a>
+          <a href="nmcdesign.dk/dryfour" class="assignment dry4"><p>Modtagelse af tørstoffer</p></a>
         </div>
     </div>
   </div>
