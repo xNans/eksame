@@ -8,10 +8,15 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@algoz098/vue-player": "^0.4.3",
+    "bootstrap": "^5.3.0",
     "core-js": "^3.8.3",
     "register-service-worker": "^1.7.2",
+    "v-video-embed": "^1.0.8",
     "vue": "^2.6.14",
     "vue-class-component": "^7.2.3",
+    "vue-core-video-player": "^0.2.0",
+    "vue-lazytube": "^1.1.1",
     "vue-property-decorator": "^9.1.2",
     "vue-router": "^3.5.1",
     "vuex": "^3.6.2"
@@ -31,5 +36,10 @@
     "eslint-plugin-vue": "^8.0.3",
     "typescript": "~4.5.5",
     "vue-template-compiler": "^2.6.14"
-  }
+  },
+  "keywords": [
+    "youtube",
+    "lazyload",
+    "iframe"
+  ]
 }
