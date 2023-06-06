@@ -1,7 +1,7 @@
 <template>
     <div class="about">
-      <h1>Indvejning</h1>
       <a href="/"><p class="backbtn">Tilbage til forsiden</p></a>
+      <h1>Indvejning</h1>
       <div class="assignments">
           <div class="assignment-row">
             <div class="assignment1"></div>
@@ -26,3 +26,35 @@ import DepartmentWeighing from '@/components/DepartmentWeighing.vue';
 })
 export default class WeighingView extends Vue {}
 </script>
+
+<style>
+.backbtn {
+  margin-top: 80px;
+}
+
+.backbtn {
+  height: 100px;
+  width: 300px;
+  font-size: 30px;
+  background-color: #204B82;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+  border-radius: 30px;
+  transition: 0.5s;
+
+}
+
+.backbtn:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+
+}
+
+</style>
